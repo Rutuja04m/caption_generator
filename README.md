@@ -56,4 +56,4 @@ gemini-flash-project/
  ┗ assets/
 
 
-Working Screenshots((1), (2)) are uploaded with other files.
+Working Screenshots((1), (2), (3)) are uploaded with other files.
